@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #eef2f7;
+}
+
+/* MAIN CONTAINER */
+.resume {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    max-width: 1000px;
+    margin: 30px auto;
+    background: white;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+/* LEFT PANEL */
+.sidebar {
+    background: #2c3e50;
+    color: white;
+    padding: 25px;
+}
+
+.sidebar h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+.sidebar p, .sidebar li {
+    font-size: 14px;
+    color: #ddd;
+}
+
+.sidebar ul {
+    padding-left: 15px;
+}
+
+/* PROFILE */
+.profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile h1 {
+    margin: 10px 0 5px;
+    font-size: 22px;
+}
+
+.profile h4 {
+    color: #3498db;
+    margin: 0;
+}
+
+/* SKILLS */
+.skill {
+    margin: 10px 0;
+}
+
+.bar {
+    height: 6px;
+    background: #555;
+    border-radius: 5px;
+}
+
+.fill {
+    height: 6px;
+    background: #3498db;
+    border-radius: 5px;
+}
+
+/* RIGHT CONTENT */
+.content {
+    padding: 30px;
+}
+
+.section {
+    margin-bottom: 25px;
+}
+
+.section h2 {
+    color: #2c3e50;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.section p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* HOVER EFFECT */
+.section:hover {
+    background: #f9fbfd;
+    padding: 10px;
+    transition: 0.3s;
+}
