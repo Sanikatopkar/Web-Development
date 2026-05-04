@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<class>
+
+    <student>
+        <name>Sanika</name>
+        <marks>90</marks>
+    </student>
+
+    <student>
+        <name>Raj</name>
+        <marks>95</marks>
+    </student>
+
+    <student>
+        <name>Priti</name>
+        <marks>55</marks>
+    </student>
+
+    <student>
+        <name>Shlok</name>
+        <marks>91</marks>
+    </student>
+
+    <student>
+        <name>Sai</name>
+        <marks>40</marks>
+    </student>
+
+</class>

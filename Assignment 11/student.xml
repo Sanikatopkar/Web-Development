@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+<students>
+    <student>
+        <id>101</id>
+        <name>Sanika Topkar</name>
+        <age>20</age>
+        <department>Computer Science</department>
+        <email>sanikatopkar@gmail.com</email>
+    </student>
+    <student>
+        <id>102</id>
+        <name>Arpita Shinde</name>
+        <age>21</age>
+        <department>Information Technology</department>
+        <email>arpita@gmail.com</email>
+    </student>
+    <student>
+        <id>103</id>
+        <name>Ashlesha Powar</name>
+        <age>20</age>
+        <department>Mechanical</department>
+        <email>ashlesha@gmail.com</email>
+    </student>
+    <student>
+        <id>104</id>
+        <name>Harshada Tengale</name>
+        <age>20</age>
+        <department>Information Technology</department>
+        <email>harshada@gmail.com</email>
+    </student>
+</students>
